@@ -1,4 +1,4 @@
-Name:           gcc
+Name:           self-built-gcc
 Version:        10.2.0
 Release:        1%{?dist}
 Summary:        Various compilers (C, C++, Objective-C, Java, ...)
