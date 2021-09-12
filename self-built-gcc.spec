@@ -20,7 +20,7 @@ The gcc package contains the GNU Compiler Collection version 10.2.
 You'll need this package in order to compile C code.
 
 %prep
-%setup -q
+%setup -q -n gcc
 
 
 %build
